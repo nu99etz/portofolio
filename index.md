@@ -92,18 +92,6 @@
                 <h2 class="mb-5">Experience</h2>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="flex-grow-1">
-                        <h3 class="mb-0">Internship Photographer</h3>
-                        <div class="subheading mb-3">Rumah Photo</div>
-                        <ul>
-                            <li>Pre Wedding Photographer</li>
-                            <li>Wedding Photographer</li>
-                            <li>Model Photographer</li>
-                        </ul>
-                    </div>
-                    <div class="flex-shrink-0"><span class="text-primary">February 2016 - April 2016</span></div>
-                </div>
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                    <div class="flex-grow-1">
                         <h3 class="mb-0">Internship Web Programmer</h3>
                         <div class="subheading mb-3">PT Sentra Vidya Utama</div>
                         <ul>
@@ -215,10 +203,6 @@
                     <li>
                         <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                         Internship Web Programmer PT Sentra Vidya Utama 2020
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                        Best Student Bachelor Of Computer Departement Information System 2021
                     </li>
                 </ul>
             </div>
